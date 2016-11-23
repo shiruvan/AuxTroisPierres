@@ -1,0 +1,14 @@
+img.navbar-brand{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	height: 100px;
+}
+.navbar{
+	background-color: white;
+	margin-bottom: 0px !important;
+}
+.navbar-header{
+	height: 120px;
+}
